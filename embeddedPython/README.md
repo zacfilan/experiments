@@ -1,2 +1,5 @@
-make
-zacfilan@fe716:~/repos/embeddedPython> PYTHONPATH=. ./embedTest multiply multiply 3 2 
+# Playing around with embedding a python interpreter in c++
+
+    make clean
+    make
+    make test
