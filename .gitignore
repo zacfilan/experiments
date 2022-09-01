@@ -1,0 +1,3 @@
+embeddedPython/obj/*
+embeddedPython/test/__pycache__/*
+embeddedPython/bin/*
